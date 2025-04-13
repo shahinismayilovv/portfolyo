@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f0f0f0"/>
+    <g transform="translate(400,200)">
+        <rect x="-150" y="-100" width="300" height="200" fill="#9b59b6" rx="10"/>
+        <text x="0" y="0" font-family="Arial" font-size="24" fill="white" text-anchor="middle">AI Virtual Assistant</text>
+        <g transform="translate(-100,-30)">
+            <rect x="0" y="0" width="40" height="40" fill="white" rx="5"/>
+            <path d="M10,15 q10,-10 20,0 q10,10 0,20 q-10,10 -20,0 q-10,-10 0,-20" stroke="#9b59b6" stroke-width="2" fill="none"/>
+        </g>
+        <g transform="translate(60,-30)">
+            <rect x="0" y="0" width="40" height="40" fill="white" rx="5"/>
+            <path d="M15,10 v20 M25,10 v20 M10,15 h20 M10,25 h20" stroke="#9b59b6" stroke-width="2"/>
+        </g>
+    </g>
+</svg>
